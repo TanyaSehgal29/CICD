@@ -1,0 +1,12 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is EEA8-FC36
+
+ Directory of E:\TIET\SEMESTER 3\Continuous Integration and Continuous Deployment\Lab Work\Files
+
+11-Nov-22  03:50 PM    <DIR>          .
+11-Nov-22  03:27 PM    <DIR>          ..
+11-Nov-22  03:50 PM                 0 demo.txt
+11-Nov-22  03:40 PM               425 HelloWorld.class
+09-Nov-22  12:11 PM               134 HelloWorld.java
+               3 File(s)            559 bytes
+               2 Dir(s)  355,142,692,864 bytes free
